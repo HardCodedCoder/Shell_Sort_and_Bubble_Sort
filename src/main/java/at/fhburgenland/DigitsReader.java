@@ -33,6 +33,7 @@ public class DigitsReader {
 
         List<Integer> numbers = new ArrayList<Integer>();
         for (String line : lines) {
+            line = line.replace(" ", "");
             for (String element : line.split(";")) {
                 try
                 {
