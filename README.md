@@ -1,22 +1,22 @@
-# Shell Sort und Bubble Sort Implementierung
+# Shell Sort and Bubble Sort Implementation
 
-Dieses Repository enthält die Implementierung einer Hausarbeit, die sich mit dem Sortieren von Zahlen aus einer Datei befasst. Das primäre Ziel dieser Hausarbeit ist es, die Zahlen mittels des Shell Sort-Algorithmus zu sortieren und die sortierten Daten auszugeben.
+This repository contains the implementation of a project focused on sorting numbers from a file. The primary goal of this project is to sort the numbers using the Shell Sort algorithm and output the sorted data.
 
-## Hauptmerkmale
+## Main Features
 
-- **Shell Sort Implementierung:** Die Hauptaufgabe dieser Hausarbeit war die Implementierung des Shell Sort-Algorithmus. Dieser Algorithmus wurde verwendet, um die Zahlen aus der Datei effizient zu sortieren.
+- **Shell Sort Implementation:** The main task of this project was to implement the Shell Sort algorithm. This algorithm was used to efficiently sort the numbers from the file.
 
-- **Bubble Sort Algorithmus:** Als zusätzliche Implementierung wurde der Bubble Sort-Algorithmus eingebaut. Dies bietet eine vergleichende Perspektive zu Shell Sort und ermöglicht es, die Effizienz beider Algorithmen zu bewerten.
+- **Bubble Sort Algorithm:** As an additional implementation, the Bubble Sort algorithm was integrated. This provides a comparative perspective to Shell Sort and allows for the assessment of the efficiency of both algorithms.
 
-- **Zeitmessung:** Um die Performance der Algorithmen zu bewerten, wurde eine Zeitmessung in Millisekunden implementiert. Diese Funktion ermöglicht es, die Ausführungsgeschwindigkeit der Algorithmen quantitativ zu erfassen und zu vergleichen.
+- **Time Measurement:** To evaluate the performance of the algorithms, a time measurement in milliseconds was implemented. This feature enables the quantitative capture and comparison of the execution speed of the algorithms.
 
-## Benutzung
+## Usage
 
-Um das Programm zu verwenden, stellen Sie sicher, dass Sie eine Textdatei mit Zahlen haben, die sortiert werden sollen. Ersetzen Sie den Inhalt der digits.txt Datei mit Ihrem Inhalt um eine Sortierung auf ihre eigene Zahlenfolge anzuwenden.
-Die Zahlen sollten im Format Zahl1;Zahl2;Zahl3;...; abgelegt werden.
+To use the program, ensure that you have a text file with numbers that need to be sorted. Replace the contents of the digits.txt file with your content to apply sorting to your own sequence of numbers.
+The numbers should be stored in the format Number1;Number2;Number3;...;.
 
-Die Hauptklasse des Programms liest die Zahlen aus der Datei, führt nach Menüauswahl den Shell Sort oder auch den Bubble Sort durch und gibt die sortierten Listen aus. Zusätzlich wird die Ausführungszeit der einzelnen Läufe wird in Millisekunden angezeigt.
+The main class of the program reads the numbers from the file, performs Shell Sort or Bubble Sort after menu selection, and outputs the sorted lists. Additionally, the execution time for each run is displayed in milliseconds.
 
-## Beitrag
+## Contribution
 
-Feedback und Beiträge zu diesem Projekt sind willkommen. Wenn Sie Verbesserungsvorschläge oder Ideen zur Optimierung der Algorithmen haben, zögern Sie nicht, einen Pull Request zu erstellen oder ein Issue zu eröffnen.
+Feedback and contributions to this project are welcome. If you have any suggestions for improvement or ideas for optimizing the algorithms, please feel free to create a pull request or open an issue.
