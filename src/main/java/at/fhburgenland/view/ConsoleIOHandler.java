@@ -1,4 +1,6 @@
-package org.example;
+package at.fhburgenland.view;
+
+import at.fhburgenland.enumerations.ForegroundColor;
 
 import java.util.List;
 import java.util.Scanner;

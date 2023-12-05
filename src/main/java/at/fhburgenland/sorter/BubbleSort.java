@@ -1,6 +1,6 @@
-package org.example;
+package at.fhburgenland.sorter;
 
-import org.example.interfaces.Sorter;
+import at.fhburgenland.interfaces.Sorter;
 
 import java.util.List;
 

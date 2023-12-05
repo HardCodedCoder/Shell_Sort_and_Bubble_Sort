@@ -17,6 +17,6 @@ The numbers should be stored in the format Number1;Number2;Number3;...;.
 
 The main class of the program reads the numbers from the file, performs Shell Sort or Bubble Sort after menu selection, and outputs the sorted lists. Additionally, the execution time for each run is displayed in milliseconds.
 
-## Contribution
+## Academic Assignment
 
-Feedback and contributions to this project are welcome. If you have any suggestions for improvement or ideas for optimizing the algorithms, please feel free to create a pull request or open an issue.
+This project was created as a homework assignment for the Software Engineering and Networked Systems program (Software Engineering und vernetzte Systeme Studiengang) at FH Burgenland.

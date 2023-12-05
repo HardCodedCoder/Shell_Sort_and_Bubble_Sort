@@ -1,6 +1,9 @@
-package org.example;
+package at.fhburgenland;
 
-import org.example.interfaces.Sorter;
+import at.fhburgenland.view.ConsoleIOHandler;
+import at.fhburgenland.interfaces.Sorter;
+import at.fhburgenland.sorter.BubbleSort;
+import at.fhburgenland.sorter.ShellSort;
 
 import java.util.ArrayList;
 import java.util.List;

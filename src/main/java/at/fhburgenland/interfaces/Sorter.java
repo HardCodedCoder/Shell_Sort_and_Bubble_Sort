@@ -1,4 +1,4 @@
-package org.example.interfaces;
+package at.fhburgenland.interfaces;
 
 import java.util.List;
 

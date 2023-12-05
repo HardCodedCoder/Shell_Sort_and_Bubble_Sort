@@ -1,4 +1,4 @@
-package org.example;
+package at.fhburgenland.enumerations;
 
 /**
  *  * This enum provides several ConsoleColors with their corresponding ANSI Color codes.

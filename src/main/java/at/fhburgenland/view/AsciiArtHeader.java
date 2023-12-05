@@ -1,4 +1,4 @@
-package org.example;
+package at.fhburgenland.view;
 
 public class AsciiArtHeader {
 
