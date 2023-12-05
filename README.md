@@ -20,7 +20,3 @@ Die Hauptklasse des Programms liest die Zahlen aus der Datei, führt nach Menüa
 ## Beitrag
 
 Feedback und Beiträge zu diesem Projekt sind willkommen. Wenn Sie Verbesserungsvorschläge oder Ideen zur Optimierung der Algorithmen haben, zögern Sie nicht, einen Pull Request zu erstellen oder ein Issue zu eröffnen.
-
-## Lizenz
-
-Dieses Projekt ist unter [hier den Namen der Lizenz einfügen] lizenziert. Details finden Sie in der `LICENSE`-Datei.
